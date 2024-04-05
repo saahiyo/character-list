@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFDCCFFF"/> <!-- Track color -->
+    <corners android:radius="3dp"/> <!-- Track corner radius -->
+</shape>
